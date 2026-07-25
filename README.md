@@ -30,10 +30,11 @@ This repository documents my cybersecurity lab assessment of the Kioptrix Level 
 - Technical Documentation
 
 ## Repository Contents
-- Project Report (PDF)
+- Project Report (PDF)/comming soon
 - Screenshots
 - Methodology
 - Learning Notes
+- commands.md
 
 ## Disclaimer
 This project was performed in a legal lab environment for educational purposes only using an intentionally vulnerable machine.
